@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.row-1 {
+    background-color:lightgrey;
+    height: 100px;
+    width: 100%;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 132, 255);
+    margin: 20px 400px 20px 30px;
+    
+   
+}
+.row-text {
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+
+}
+
+span {
+    overflow-wrap: normal;
+    height: 80%;
+    width: 90%;
+}
+
+.row-3 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(0, 132, 255);
+}
+
+.row-4 {
+    height: 100px;
+    width: 100%;
+    background-color:turquoise;
+}
+
+.row-5 {
+    height: 100px;
+    width: 100%;
+    background-color:rgb(150, 187, 64);
+}
+
+.row-6 {
+    height: 100px;
+    width: 100%;
+    background-color:rgb(205, 202, 50);
+}

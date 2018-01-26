@@ -11,19 +11,25 @@ body {
     border-width: 5px;
     border-color: black;
     display: flex;
+    box-sizing: border-box;
 }
 
 .purple {
-  height: 60%;
-  width: 5%;
+  height: 150px;
+  width: 50px;
   background-color: purple;
-   
+  padding: 10px:
+  margin: 15px;
+  margin-left: 5px;
+  margin-top: 20px;
+  
 }
 
 .green {
     width: 200px;
-	height: 100px;
+	height: 150px;
     background: rgb(70, 167, 70);
+    margin: 20px 50px;
     
 }
 
@@ -33,7 +39,9 @@ body {
 	background: lightskyblue;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
-	border-radius: 50px;
+    border-radius: 50px;
+    margin: 20px;
+    
 }
 
 .dotted-border {
@@ -53,6 +61,7 @@ body {
     background-color: lightgoldenrodyellow;
     height: 80%;
     width: 80%;
+    margin: 40px;
        
 }
 
@@ -60,5 +69,12 @@ body {
     box-shadow: 5px 10px lightgray;
     border: solid;
     border-color: lightgray;
-    height: 
+    height: 50vh;
+    width: 45%;
+    text-align: center;
+    color: darkblue;
+    text: 24px;
+    padding: 10% 0;
+    margin: 20px 30px 20px 200px;
+
 }
